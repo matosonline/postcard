@@ -1,0 +1,47 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-color: black;
+    font-family:'Handlee', cursive;
+}
+#bigDiv {
+    width: 500px;
+    height:350px;
+    background-color: white;
+    margin:100px auto 0px auto;
+}
+.boxes {
+    width: 230px;
+    float: left;
+    padding:10px;
+}
+#imgbox {
+    width: 100%;
+    text-align: right;
+
+}
+#logo {
+    width:70px;
+    margin-right: 8px
+}
+.infoinputs {
+    margin-top: 5px;
+    border:none;
+    border-bottom: 1px solid gray;
+    width: 220px;
+    height: 34px;
+    color: gray;
+    font-size:20px;
+    font-family: inherit;
+}
+#buttondiv {
+    width: 500px;
+    text-align: center;
+    overflow: hidden;
+}
+#buttondiv input {
+    border: 0px;
+    border-bottom: 1px gray solid;
+    font-size: 22px;
+    font-family: 'Handlee', cursive;
+}
